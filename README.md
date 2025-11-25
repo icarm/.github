@@ -1,6 +1,6 @@
 # Institute for Computer-Aided Reasoning in Mathematics (ICARM)
 
-The **Institute for Computer-Aided Reasoning in Mathematics (ICARM)** is a NSF-supported Mathematical Sciences Research Institute located at **Carnegie Mellon University**. ICARM’s mission is to help mathematicians use, develop, and shape emerging technologies for mathematical reasoning—including interactive proof assistants, automated reasoning, symbolic computation, and machine learning for mathematics.
+The **Institute for Computer-Aided Reasoning in Mathematics (ICARM)** is an NSF-supported Mathematical Sciences Research Institute located at **Carnegie Mellon University**. ICARM’s mission is to help mathematicians use, develop, and shape emerging technologies for mathematical reasoning—including interactive proof assistants, automated reasoning, symbolic computation, and machine learning for mathematics.
 
 ## Mission
 
